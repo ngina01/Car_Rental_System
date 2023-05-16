@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Sonko Car Rental</title>
+	<title>Ruth Car Rental</title>
 	<meta charset="utf-8">
 	<meta name="author" content="pixelhint.com">
 	<meta name="description" content="La casa free real state fully responsive html5/css3 home page website template"/>
@@ -65,7 +65,7 @@
 	<section class="listings">
 		<div class="wrapper">
 			<ul class="properties_list">
-				<h2 style="text-align:center; color:#FF0000; font-family: 'Courier New', Courier, monospace">Thank you for sending a request to Sonko Rescue Team. 
+				<h2 style="text-align:center; color:#FF0000; font-family: 'Courier New', Courier, monospace">Thank you for sending a request to Ruth Rescue Team. 
 				We will get back to you once we verify your payment.<br>
 				You can login to view the processing status of your request using your email and the National ID Number as password.</h2>
 			</ul>
@@ -107,7 +107,7 @@
 				</li>
 
 				<li class="about">
-					<p>Sonko Rescue team is an organized company that rents cars and other vehicles to clients at lower costs. We we are here to serve every Kenyan Citizen</p>
+					<p>Ruth Rescue team is an organized company that rents cars and other vehicles to clients at lower costs. We we are here to serve every Kenyan Citizen</p>
 					<ul>
 						<li><a href="http://facebook.com/sonko" class="facebook" target="_blank"></a></li>
 						<li><a href="http://twitter.com/sonko" class="twitter" target="_blank"></a></li>

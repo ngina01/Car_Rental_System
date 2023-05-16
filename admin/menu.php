@@ -1,14 +1,11 @@
 <?php
-	error_reporting("E-NOTICE");
-?>
-<?php
 	session_start();
 	if(!$_SESSION['uname'] && (!$_SESSION['pass'])){
 		header("location: ../login.php");
 	}
 ?>
 <div id="top">
-			<h1><a href="#">Sonko Rescue Team</a></h1>
+			<h1><a href="#">Ruth Rescue Team</a></h1>
 			<div id="top-navigation">
 				Welcome <a href="#"><strong>Administrator</strong></a>
 				<span>|</span>

@@ -142,9 +142,9 @@
 <!-- Footer -->
 <div id="footer">
 	<div class="shell">
-		<span class="left">&copy; <?php echo date("Y");?> - Sonko Rescue Team</span>
+		<span class="left">&copy; <?php echo date("Y");?> -Ruth Rescue Team</span>
 		<span class="right">
-			Design by Consi</a>
+			Design by Ruth Nyabuto</a>
 		</span>
 	</div>
 </div>

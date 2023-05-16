@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Sonko Car Rental</title>
+	<title>Ruth Car Rental</title>
 	<meta charset="utf-8">
 	<meta name="author" content="pixelhint.com">
 	<meta name="description" content="La casa free real state fully responsive html5/css3 home page website template"/>
@@ -78,7 +78,7 @@
 				</li>
 
 				<li class="about">
-					<p>Sonko Rescue team is an organized company that rents cars and other vehicles to clients at lower costs. We we are here to serve every Kenyan Citizen</p>
+					<p>Ruth Rescue team is an organized company that rents cars and other vehicles to clients at lower costs. We we are here to serve every Kenyan Citizen</p>
 					<ul>
 						<li><a href="http://facebook.com/sonko" class="facebook" target="_blank"></a></li>
 						<li><a href="http://twitter.com/sonko" class="twitter" target="_blank"></a></li>
@@ -90,7 +90,7 @@
 		</div>
 
 		<div class="copyrights wrapper">
-			Copyright &copy; <?php echo date("Y")?> All Rights Reserved | Designed by Consi.
+			Copyright &copy; <?php echo date("Y")?> All Rights Reserved | Designed by Ruth Nyabuto.
 		</div>
 	</footer><!--  end footer  -->
 	

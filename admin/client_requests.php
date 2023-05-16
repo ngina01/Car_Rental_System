@@ -63,8 +63,7 @@
 							</tr>
 							<?php
 								include '../includes/config.php';
-								$select = "SELECT client.client_id,client.fname,client.phone,cars.car_name,cars.hire_cost,client.status 
-										FROM client JOIN cars ON client.car_id=cars.car_id";
+								$select = "SELECT client.client_id,client.fname,client.phone,cars.car_name,cars.hire_cost,client.status FROM client JOIN cars ON client.car_id=cars.car_id";
 								$result = $conn->query($select);
 								while($row = $result->fetch_assoc()){
 							?>
@@ -121,9 +120,9 @@
 <!-- Footer -->
 <div id="footer">
 	<div class="shell">
-		<span class="left">&copy; <?php echo date("Y");?> - Sonko Rescue Team</span>
+		<span class="left">&copy; <?php echo date("Y");?> - Ruth Rescue Team</span>
 		<span class="right">
-			Design by Consi</a>
+			Design by Ruth</a>
 		</span>
 	</div>
 </div>
